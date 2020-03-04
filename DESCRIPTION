@@ -1,8 +1,8 @@
-Package: wRappoveRpass
+Package: magicwrap
 Type: Package
 Title: An overpass API wrapper and few utils functions
 Version: 0.1
-Date: 2020-01-11
+Date: 2020-03-04
 Author: Nicola Procopio
 Maintainer: Who to complain to <nico.pro412@gmail.com>
 Description: A simple wrapper for Overpass API. Download the data from OSM to R, transform the polygons in points and create your spatial data.frame. You can create your map about your points of interest using ggmap or other services.

@@ -2,7 +2,7 @@
 \alias{poi.osm}
 \title{poi.osm}
 \description{
-Download data from Openstreetmap usign Overpass API.
+Download data from Openstreetmap usign Overpass API. Default download bus stop.
 }
 \usage{
 poi.osm(city, tag, value)
@@ -13,10 +13,10 @@ poi.osm(city, tag, value)
 a string. Like "Milano" or "London".
 }
   \item{tag}{
-a string. An openstreetmap tag like "railway", "amenity", "tourism".
+a string. An openstreetmap tag like "railway", "amenity", "tourism". Default "highway".
 }
   \item{value}{
-a string. The value about tag like "station", "museum", "pharmacy"
+a string. The value about tag like "station", "museum", "pharmacy". Default "bus_stop"
 }
 }
 \value{
@@ -30,6 +30,6 @@ https://wiki.openstreetmap.org/wiki/Overpass_API
 }
 \examples{
 ### Uncomment and Run
-# require(wRappoveRpass)
-# phMilan <- poi.osm(city = "Milano", tag = "amenity", value = "pharmacy")
+# require(magicwrap)
+# bus_stop_Milan <- poi.osm(city = "Milano")
 }

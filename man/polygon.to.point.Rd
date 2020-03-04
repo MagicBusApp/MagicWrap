@@ -23,7 +23,7 @@ Nicola Procopio
 }
 \examples{
 ### Uncomment and Run
-# require(wRappoveRpass)
-# phMilan <- poi.osm(city = "Milano", tag = "amenity", value = "pharmacy")
-# phMilan_new <- polygon.to.point(osm_data = phMilan)
+# require(magicwrap)
+# bus_stop_Milan <- poi.osm(city = "Milano")
+# bus_stop_Milan_new <- polygon.to.point(osm_data = bus_stop_Milan)
 }

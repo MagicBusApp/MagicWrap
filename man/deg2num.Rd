@@ -30,6 +30,6 @@ https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#Pseudo-code
 Nicola Procopio
 }
 \examples{
-# require(wRapoveRpass)
+# require(magicwrap)
 # deg2num(39.164, 16.224, 18)
 }
