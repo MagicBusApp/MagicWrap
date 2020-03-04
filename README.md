@@ -6,6 +6,7 @@ The main objective is to simplify the use of [Overpass API](https://wiki.openstr
 
 The package contains other utils function like a converter from polygon to point or functions to switch from lat/lon to tile coordinates.
 
+![Milano](https://github.com/nickprock/wRappoveRpass/blob/img/export.png)
 
 ### Citation
 If you use my code in your research, mention this project.
