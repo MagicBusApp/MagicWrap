@@ -11,12 +11,13 @@ The package contains other utils function like a converter from polygon to point
 ### Citation
 If you use my code in your research, mention this project.
 ```
-@misc{wRappoveRpass,
+@misc{MagicWrap,
   author =       {Nicola Procopio},
-  title =        {wRappoveRpass},
-  howpublished = {\url{https://github.com/nickprock/wRappoveRpass/}},
+  title =        {magicwrap},
+  howpublished = {\url{https://github.com/MagicBusApp/magicwrap/}},
   year =         {2020}
 }
 ```
+--------------
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/2.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Attribution-ShareAlike 2.0 General</a>.
