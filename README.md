@@ -1,5 +1,5 @@
 # MagicWrap
-### A simple wrapper for Overpass API download and others utils function based on wRappoveRpass.
+### A simple wrapper for Overpass API download and others utils function.
 This library is useful to download bus stop from OSM.
 
 The main objective is to simplify the use of [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) to download points of interest.
