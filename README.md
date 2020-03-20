@@ -1,4 +1,11 @@
 # MagicWrap
+
+<br>
+
+![logo](https://github.com/nickprock/wRappoveRpass/blob/img/magicwrap.png)
+
+<br>
+
 ### A simple wrapper for Overpass API download and others utils function.
 This library is useful to download bus stop from OSM.
 
